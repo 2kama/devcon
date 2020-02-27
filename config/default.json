@@ -1,4 +1,6 @@
 {
     "mongoURI" : "mongodb+srv://mish123:mish123@devcon-ozyic.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret" : "mysecretishere"
+    "jwtSecret" : "mysecretishere",
+    "githubClientId": "",
+    "githubSecret": ""
 }
